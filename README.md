@@ -1,8 +1,8 @@
 ## Hi there! 🚀 
 
-I'm **Sid**, a young developer with a knack for data and a love for crafting accessible web applications. I have 6 years of experience in programming, specializing in **full-stack web development**. Additionally, I'm proficient in **data management and visulaization tools** such as Python, SQL, Tableau, and more.
+I'm **Sid**, a young developer with a knack for data and a love for crafting accessible web applications. I have 6 years of experience in programming, specializing in **full-stack web development**. Additionally, I'm proficient in **data management and visulaization tools**. Check below for all the tools I'm skilled in!
 
-### **Languages, Softwares, and Tools**
+### **Languages and Tools**
 
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -27,7 +27,7 @@ I'm **Sid**, a young developer with a knack for data and a love for crafting acc
 
 ### Why Connect with Me?
 🌟 I bring a unique blend of technical expertise and creative thinking to the table. <br />
-🌟 I'm enthusiastic about collaborating on innovative projects that push boundaries. <br />
+🌟 I'm enthusiastic about collaborating on innovative projects that push boundaries and make waves. <br />
 🌟 I'm always eager to learn and grow, creating a culture of continuous improvement wherever I go. <br />
 
 Want to work on a project together? Feel free to reach out!
@@ -35,5 +35,5 @@ Want to work on a project together? Feel free to reach out!
 Thanks for reading!
 <br />
 <br />
-<img src="https://file.garden/ZX4p3i8pMXxJ-6Yx/github-readme/intro.gif" alt="Sid Antoine. They/Them." width="33%"/> <br />
-<a href="https://www.linkedin.com/in/sid-antoine/"><img alt="Sid's LinkedIn" src="https://img.shields.io/badge/sidantoine-blue?style=flat&logo=linkedin&logoColor=white"></a> <a href="mailto:sidfarronantoine@gmail.com"><img alt="Sid's Gmail" src="https://img.shields.io/badge/sidfarronantoine-red?style=flat&logo=gmail&logoColor=white"></a> <a href="https://github.com/siddingducks"><img alt="Sid's Github" src="https://img.shields.io/badge/siddingducks-black?style=flat&logo=github&logoColor=white"></a>
+<img src="https://file.garden/ZX4p3i8pMXxJ-6Yx/github-readme/intro.gif" alt="Sid Antoine. They/Them." width="35%"/> <br />
+<a href="https://www.linkedin.com/in/sid-antoine/"><img alt="Sid's LinkedIn" src="https://img.shields.io/badge/sidantoine-blue?style=flat&logo=linkedin&logoColor=white"></a> <a href="mailto:sidfarronantoine@gmail.com"><img alt="Sid's Gmail" src="https://img.shields.io/badge/sidfarronantoine-red?style=flat&logo=gmail&logoColor=white"></a> <a href="https://github.com/siddingducks"><img alt="Sid's Github" src="https://img.shields.io/badge/siddingducks-2dba4e?style=flat&logo=github&logoColor=white"></a>
