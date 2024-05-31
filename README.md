@@ -35,5 +35,5 @@ Want to work on a project together? Feel free to reach out!
 Thanks for reading!
 <br />
 <br />
-<img src="https://file.garden/ZX4p3i8pMXxJ-6Yx/github-readme/intro.gif" alt="Sid Antoine. They/Them." width="40%"/> <br />
+<img src="https://file.garden/ZX4p3i8pMXxJ-6Yx/github-readme/intro.gif" alt="Sid Antoine. They/Them." width="37%"/> <br />
 <a href="https://www.linkedin.com/in/sid-antoine/"><img alt="Sid's LinkedIn" src="https://img.shields.io/badge/sidantoine-blue?style=flat&logo=linkedin&logoColor=white"></a> <a href="mailto:sidfarronantoine@gmail.com"><img alt="Sid's Gmail" src="https://img.shields.io/badge/sidfarronantoine-red?style=flat&logo=gmail&logoColor=white"></a> <a href="https://github.com/siddingducks"><img alt="Sid's Github" src="https://img.shields.io/badge/siddingducks-2dba4e?style=flat&logo=github&logoColor=white"></a>
